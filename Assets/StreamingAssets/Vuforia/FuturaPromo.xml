@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Card4" size="5.000000 3.155292" />
+    <ImageTarget name="Card3" size="5.000000 3.155292" />
+    <ImageTarget name="Card2" size="5.000000 3.155292" />
+    <ImageTarget name="Card1" size="5.000000 3.155292" />
+    <ImageTarget name="card" size="5.000000 3.155292" />
+    <ImageTarget name="Target4" size="10.000000 10.000000" />
+    <ImageTarget name="Target3" size="10.000000 10.000000" />
+    <ImageTarget name="Target2" size="10.000000 10.000000" />
+    <ImageTarget name="Target1" size="10.000000 10.000000" />
+    <ImageTarget name="TEDx_Logo" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
